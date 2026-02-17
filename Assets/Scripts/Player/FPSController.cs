@@ -9,7 +9,7 @@ public class FPSController : MonoBehaviour
 
     private float _yGravity = -9.81f;
     private float _verticalVelocity;
-    private float _lookSpeed = 1f;
+    private float _lookSpeed = 2f;
     private float _xRotation = 0f;
 
     private float _smoothedSpeed;
